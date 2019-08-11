@@ -1,0 +1,1 @@
+TAR files placed in 'data' folder will be extracted to file system root after restore.
